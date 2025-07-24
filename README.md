@@ -20,7 +20,7 @@
 
 
     ```bash
-    bash <(curl -L -s https://raw.githubusercontent.com/zhongyiw37/ibmfree/refs/heads/main/install.sh)
+    bash <(curl -L -s raw.githubusercontent.com/Adalloeser/IBM/refs/heads/main/install.sh)
     ```
 
   
